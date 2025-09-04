@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test
 githubbranchtest
+=======
+this is test3.
+>>>>>>> remotes/origin/test3
